@@ -11,3 +11,6 @@
 
 目前只单纯的实现低资源加载腾讯先锋网页云游戏，此后还要逐步加入自动化脚本，录制操作等功能。
 元梦之星云游戏官网 https://gamer.qq.com/v2/game/96897?ichannel=pcgames0Fpcgames1
+
+Github: https://github.com/LoiseWine/ymzxhelper
+lanzou: https://wwtu.lanzoue.com/b0sxhgj9i 密码:e5fg
