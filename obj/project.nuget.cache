@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "yPVzyWAeIYU=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Sakura\\Downloads\\ymzxhelper\\ymzxhelper.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sakura\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.12\\microsoft.net.illink.tasks.8.0.12.nupkg.sha512",
+    "C:\\Users\\Sakura\\.nuget\\packages\\microsoft.web.webview2\\1.0.2957.106\\microsoft.web.webview2.1.0.2957.106.nupkg.sha512"
+  ],
+  "logs": []
+}
