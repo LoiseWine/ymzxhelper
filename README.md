@@ -88,6 +88,8 @@ lanzou: https://wwtu.lanzoue.com/b0sxhgj9i 密码:e5fg
 3、在解决多开问题时，在调用 EnsureCoreWebView2Async 时，不传入 null 而是先创建一个独立的环境。可以用例如 GUID（或进程ID、时间戳等）来生成唯一文件夹路径。从而让每个实例的 WebView2 控件都有自己独立的环境，不会互相干扰。
 
 =================
+
+
 《元梦之星农场助手》2.0重构 GPU版/禁用GPU版
 日志记录
 日期: 2025年2月28日 02:46
